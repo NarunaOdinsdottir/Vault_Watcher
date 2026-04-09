@@ -1,6 +1,6 @@
 import time
 from Vault_monitor import get_report
-from telegram_alert import send_alert
+from SecuritronMK2 import send_alert
 
 CHECK_INTERVAL = 300  # alle 5 Minuten
 
