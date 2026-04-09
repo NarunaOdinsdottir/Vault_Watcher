@@ -50,7 +50,7 @@ Vault_Watcher/
 ├─ Vault_monitor.py      # Systemüberwachung (CPU, RAM, Disk, Security)
 ├─ Vault_Dashboard.py    # Anzeige im Terminal (Fallout UI)
 ├─ SecuritronMK2.py      # Telegram-Bot für Alerts
-├─ report_adapter.py     # Zentrale Datenquelle (optional)
+├─ Adapter.py            # Zentrale Datenquelle (optional)
 └─ main.py               # Steuerung & Intervall-Logik
 ```
 
